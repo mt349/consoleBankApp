@@ -1,3 +1,7 @@
+import java.util.HashMap;
+import java.util.Scanner;
+import java.io.*;
+
 // ----------------- MAIN CLASS -----------------
 class Main {
     public static void main(String[] args) {
@@ -81,3 +85,4 @@ class Main {
         scanner.close();
     }
 }
+
